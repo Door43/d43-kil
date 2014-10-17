@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kil:home|Door43 (kil)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kil|d43-kil repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kil/archive/master.zip|d43-kil.zip]]
+
+**Recent Changes**
+{{changes>ns = kil}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kil|Ethnologue data]]
+
